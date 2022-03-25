@@ -1,3 +1,4 @@
 #Primeiro Repo
 
-Este é um Readme.md aaa
+Negócio é fazer dinheiro malote com a tropa
+-README.MD CHEFE
